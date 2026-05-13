@@ -1,5 +1,5 @@
 {
-    "name": "yzncms/framework",
+    "name": "printzhucheng/yzncms-framework",
     "description": "the new thinkphp framework",
     "type": "yzncms-framework",
     "keywords": [
@@ -8,7 +8,7 @@
         "thinkphp",
         "ORM"
     ],
-    "homepage": "http://thinkphp.cn/",
+    "homepage": "https://github.com/printzhucheng/yzncms-framework",
     "license": "Apache-2.0",
     "authors": [
         {
@@ -22,7 +22,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "yzncms/think-installer": "2.*",
+        "printzhucheng/yzncms-think-installer": "2.*",
         "psr/http-message": "^1.0"
     },
     "require-dev": {
